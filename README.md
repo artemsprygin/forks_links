@@ -1,14 +1,14 @@
 # Forks links
 
-While I'm doing projects, forked from [https://github.com/devmanorg](https://github.com/devmanorg), after finish I usually check how other people did same task to find most beautiful solution. I wrote this script to make it simple: just launch and you'll have an html page with list of all links, opened in your browser!
+While I'm doing projects, forked from [https://github.com/devmanorg](https://github.com/devmanorg), after finishing a project I usually check how other people did same task to find most beautiful solution. I wrote this script to make it simple: just launch and you'll have an HTML page with list of all links, opened in your browser!
 
 # How it works
 
-* You can lauch it with parameter -l or --link — link to a original repository. If you run script without parameters, it will ask you to write it.
+* You can launch it with parameter -l or --link — link to the original repository. If you run script without parameters, it will ask you to write it.
 
 * The link can be to a whole repo: `https://github.com/devmanorg/10_coursera` or link to a specific file: `https://github.com/devmanorg/10_coursera/blob/master/coursera.py`. You'll have list of links to repos or to a specific file in other repos respectively.
 
-* Script will generate html file with list of all links to a forked repos or files and save it in same directory with itself.
+* Script will generate HTML file with list of all links to a forked repos or files and save it in same directory with itself.
 
 * Script will ask you whether you want automatically open generated file in browser or not. If you type 'y' or 'yes', page will be opened in your browser.
 
@@ -16,7 +16,7 @@ While I'm doing projects, forked from [https://github.com/devmanorg](https://git
 
 ```bash
 $ python forks_links.py -l https://github.com/devmanorg/10_coursera/blob/master/coursera.py
-Would you like to open generated html file in browser? y/n
+Would you like to open generated HTML file in browser? y/n
 n
 https://github.com/kostyaeremin/10_coursera/blob/master/coursera.py
 https://github.com/xdass/10_coursera/blob/master/coursera.py
