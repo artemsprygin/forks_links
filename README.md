@@ -1,6 +1,6 @@
 # Forks links
 
-While I'm doing projects, forked from [https://github.com/devmanorg](https://github.com/devmanorg), after finishing a project I usually check how other people did same task to find most beautiful solution. I wrote this script to make it simple: just launch and you'll have an HTML page with list of all links, opened in your browser!
+While I'm doing projects, forked from [https://github.com/devmanorg](https://github.com/devmanorg), after finishing a project I usually check how other people did same task to find most beautiful solution. I wrote this script to make it simple: just launch the script and you'll have an HTML page with list of all links, opened in your browser!
 
 # How it works
 
