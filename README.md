@@ -8,7 +8,7 @@ While I'm doing projects, forked from [https://github.com/devmanorg](https://git
 
 * The link can be to a whole repo: `https://github.com/devmanorg/10_coursera` or link to a specific file: `https://github.com/devmanorg/10_coursera/blob/master/coursera.py`. You'll have list of links to repos or to a specific file in other repos respectively.
 
-* Script will generate HTML file with list of all links to a forked repos or files and save it in same directory with itself.
+* Script will generate HTML file with list of all links to a forked repos or files and save it in the same directory with itself.
 
 * Script will ask you whether you want automatically open generated file in browser or not. If you type 'y' or 'yes', page will be opened in your browser.
 
